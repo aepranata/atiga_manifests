@@ -2,7 +2,7 @@
 <manifest>
   <remote  name="los-plus"
            fetch="https://github.com"
-           revision="refs/heads/lineage-plus-22.1" />
+           revision="refs/heads/lineage-plus-22.2" />
 
   <!-- AOSP -->
   <remove-project name="LineageOS/android_frameworks_base" />
